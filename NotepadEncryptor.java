@@ -1,4 +1,4 @@
-package jeevesh;
+package TextEncryptor;
 
 
 import java.awt.BorderLayout;
